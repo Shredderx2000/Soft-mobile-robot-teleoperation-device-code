@@ -1,0 +1,11 @@
+Button status - IO 19: Functioning properly
+Button status - IO 6: Functioning properly
+Button status - IO 21: Functioning properly
+Button status - IO 20: Functioning properly
+Button status - IO 16: Functioning properly
+Button status - IO 12: Functioning properly
+Button status - IO 26: Functioning properly
+Joystick status - Channel 0: Working
+Joystick status - Channel 1: Working
+Joystick status - Channel 2: Working
+Joystick status - Channel 3: Working
